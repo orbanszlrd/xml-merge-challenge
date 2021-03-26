@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <import resource="data/dependency-1.xml"/>
+    <import resource="data/dependency-2.xml"/>
+    <country code="HU">Hungary</country>
+    <country code="RO">Romania</country>
+    <country code="SK">Slovakia</country>
+    <country code="HR">Croatia</country>
+</data>

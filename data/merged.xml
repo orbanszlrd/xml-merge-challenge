@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <country code="US" source="data/dependency-3.xml" target="data/dependency-1.xml">United States</country>
+    <country code="UK" source="data/dependency-3.xml" target="data/dependency-1.xml">United Kingdom</country>
+    <country code="SV" source="data/dependency-1.xml" target="data/countries.xml">Slovenia</country>
+    <country code="CZ" source="data/dependency-1.xml" target="data/countries.xml">Czech Republic</country>
+    <country code="GR" source="data/dependency-1.xml" target="data/countries.xml">Greece</country>
+    <country code="DE" source="data/dependency-2.xml" target="data/countries.xml">
+        <name>Germany</name>
+        <capital>Berlin</capital>
+    </country>
+    <country code="CH" source="data/dependency-2.xml" target="data/countries.xml">
+        <name>Switzerland</name>
+        <capital>Bern</capital>
+    </country>
+    <country code="HU" source="data/countries.xml">Hungary</country>
+    <country code="RO" source="data/countries.xml">Romania</country>
+    <country code="SK" source="data/countries.xml">Slovakia</country>
+    <country code="HR" source="data/countries.xml">Croatia</country>
+</data>

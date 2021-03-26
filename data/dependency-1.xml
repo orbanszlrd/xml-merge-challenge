@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <import resource="data/dependency-3.xml"/>
+    <country code="SV">Slovenia</country>
+    <country code="CZ">Czech Republic</country>
+    <country code="GR">Greece</country>
+</data>
