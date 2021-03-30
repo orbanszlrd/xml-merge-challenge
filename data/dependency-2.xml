@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data>
+    <import resource="data/dependency-3.xml"/>
     <country code="DE"><name>Germany</name><capital>Berlin</capital></country>
     <country code="CH"><name>Switzerland</name><capital>Bern</capital></country>
 </data>

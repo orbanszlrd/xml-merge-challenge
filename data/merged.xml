@@ -5,6 +5,8 @@
     <country code="SV" source="data/dependency-1.xml" target="data/countries.xml">Slovenia</country>
     <country code="CZ" source="data/dependency-1.xml" target="data/countries.xml">Czech Republic</country>
     <country code="GR" source="data/dependency-1.xml" target="data/countries.xml">Greece</country>
+    <country code="US" source="data/dependency-3.xml" target="data/dependency-2.xml">United States</country>
+    <country code="UK" source="data/dependency-3.xml" target="data/dependency-2.xml">United Kingdom</country>
     <country code="DE" source="data/dependency-2.xml" target="data/countries.xml">
         <name>Germany</name>
         <capital>Berlin</capital>
